@@ -16,5 +16,5 @@
 File { backup => false }
 
 node 'demo' {
-  include role::demo
+#  include role::demo
 }
